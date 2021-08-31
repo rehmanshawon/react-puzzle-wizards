@@ -10,7 +10,7 @@ The Puzzles are -
 7. Number Blocks
 8. Hidden Message
 9. Cryptogram
-10. 
+ 
 The user can generate as many puzzles as they want and print them and copy them (with answers) to clipboard and paste them in any application that supports image pasting. 
 Go to this link for a preview
 https://rehmanshawon.github.io/react-puzzle-wizards/
